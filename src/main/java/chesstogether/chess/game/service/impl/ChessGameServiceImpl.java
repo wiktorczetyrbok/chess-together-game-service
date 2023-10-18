@@ -1,9 +1,9 @@
 package chesstogether.chess.game.service.impl;
 
-import chesstogether.chess.game.Board;
-import chesstogether.chess.game.DefaultBoardGenerator;
+import chesstogether.chess.game.engine.Board;
+import chesstogether.chess.game.engine.DefaultBoardGenerator;
 import chesstogether.chess.game.Move;
-import chesstogether.chess.game.logic.movement.BoardMovement;
+import chesstogether.chess.game.engine.logic.movement.BoardMovement;
 import chesstogether.chess.game.service.ChessGameService;
 import org.springframework.stereotype.Service;
 

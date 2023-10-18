@@ -1,6 +1,6 @@
 package chesstogether.chess.game.controller;
 
-import chesstogether.chess.game.Board;
+import chesstogether.chess.game.engine.Board;
 import chesstogether.chess.game.service.ChessGameService;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
